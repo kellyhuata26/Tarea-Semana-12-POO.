@@ -4,7 +4,7 @@
 
 **Estudiante:** Kelly Daniela Tanguila Huatatoca  
 **Asignatura:** Programación Orientada a Objetos  
-**Semana:** 13
+**Semana:** 12
 
 ---
 
