@@ -1,0 +1,9 @@
+[
+    {
+        "codigo": "poo1",
+        "nombre": "hambuerguesa",
+        "precio": 5.5,
+        "categoria": "comida",
+        "stock": 8
+    }
+]
